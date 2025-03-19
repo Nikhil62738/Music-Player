@@ -34,7 +34,7 @@ pip install pygame tkinter
 ## Screenshots
 Here’s a preview of the Music Player:
 
-![Music Player Screenshot](music player.png)
+![Music Player Screenshot]((https://github.com/Nikhil62738/Music-Player/edit/main/music player.png))
 
 
 ## Issues & Contributions
